@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "name": "HTML5",
+    "time": "8.6 hours",
+    "access": "free",
+    "price": 0,
+    "image": "https://blog.edx.org/hubfs/Imported_Blog_Media/null-1-1.jpg",
+    "its_title": "Learn to basic",
+    "its_paragraph": "HTML5 is the next major revision of the HTML standard superseding HTML 4.01, XHTML 1.0, and XHTML 1.1. HTML5 is a standard for structuring and presenting content on the World Wide Web. HTML5 is a cooperation between the World Wide Web Consortium (W3C) and the Web Hypertext Application Technology Working Group (WHATWG)."
+  },
+  {
+    "id": 1,
+    "name": "CSS3",
+    "time": "3 weeks",
+    "access": "premium",
+    "price": 150,
+    "image": "https://pixelmechanics.com.sg/wp-content/uploads/2019/04/css.jpg",
+    "its_title": "Style your website!",
+    "its_paragraph": "Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML ..."
+  },
+  {
+    "id": 2,
+    "name": "Bootstrap5",
+    "time": "8 weeks",
+    "access": "premium",
+    "price": 199,
+    "image": "https://blog.templatetoaster.com/wp-content/uploads/2020/05/Bootstrap-5.jpg",
+    "its_title": "Styles more with it",
+    "its_paragraph": "Bootstrap 5 is the newest version of Bootstrap; with new components, faster stylesheet and more responsiveness. Bootstrap 5 supports the latest, stable releases of all major browsers and platforms. However, Internet Explorer 11 and down is not supported."
+  },
+  {
+    "id": 3,
+    "name": "Tailwind",
+    "time": "1 month",
+    "access": "premium",
+    "price": 200,
+    "image": "https://laravelnews.imgix.net/images/tailwindcss-1633184775.jpg?ixlib=php-3.3.1",
+    "its_title": "Also Styles more with it",
+    "its_paragraph": "A utility-first CSS framework packed with classes like flex , pt-4 , text-center and rotate-90 that can be composed to build any design, directly in your markup ..."
+  },
+  {
+    "id": 4,
+    "name": "GithHub",
+    "time": "3 weeks",
+    "access": "free",
+    "price": 0,
+    "image": "https://www.howtogeek.com/wp-content/uploads/2022/08/github_hero_2.jpg?height=200p&trim=2,2,2,2",
+    "its_title": "Deploy here your website",
+    "its_paragraph": "GitHub, Inc. (/ˈɡɪthʌb/), is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project."
+  },
+  {
+    "id": 5,
+    "name": "JAVASCRIPT",
+    "time": "3 month",
+    "access": "Premium",
+    "price": 300,
+    "image": "https://cyberhoot.com/wp-content/uploads/2020/07/Free-Courses-to-learn-JavaScript.jpg",
+    "its_title": " Hello, world!",
+    "its_paragraph": "What is JavaScript? JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well."
+  },
+  {
+    "id": 6,
+    "name": "React.JS",
+    "time": "6 months",
+    "access": "premium",
+    "price": 350,
+    "image": "https://reactnative.dev/img/logo-og.png",
+    "its_title": "More useful for your JS skills",
+    "its_paragraph": "React is a JavaScript-based UI development library. Facebook and an open-source developer community run it. Although React is a library rather than a language, it is widely used in web development. The library first appeared in May 2013 and is now one of the most commonly used frontend libraries for web development."
+  },
+  {
+    "id": 7,
+    "name": "Node.JS",
+    "time": "2 months",
+    "access": "premium",
+    "price": 550,
+    "image": "https://miro.medium.com/max/960/1*X7a7F-yXRUAGLGLzdlGQMA.png",
+    "its_title": "This the Way to start somethings new",
+    "its_paragraph": "Node. js (Node) is an open source development platform for executing JavaScript code server-side. Node is useful for developing applications that require a persistent connection from the browser to the server and is often used for real-time applications such as chat, news feeds and web push notifications."
+  }
+]
