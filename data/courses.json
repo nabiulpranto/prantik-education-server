@@ -20,6 +20,16 @@
     "its_paragraph": "Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML ..."
   },
   {
+    "id": 2,
+    "name": "Bootstrap5",
+    "time": "8 weeks",
+    "access": "premium",
+    "price": 199,
+    "image": "https://i.ibb.co/8XsBMk8/Bootstrap-logo-svg.png",
+    "its_title": "Styles more with it",
+    "its_paragraph": "Bootstrap 5 is the newest version of Bootstrap; with new components, faster stylesheet and more responsiveness. Bootstrap 5 supports the latest, stable releases of all major browsers and platforms. However, Internet Explorer 11 and down is not supported."
+  },
+  {
     "id": 3,
     "name": "Tailwind",
     "time": "1 month",
